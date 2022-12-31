@@ -1,0 +1,211 @@
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\AxShockwaveFlashObjects.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Shared.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\ShockwaveFlashObjects.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BaoCao.resources
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeDienThoai.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\BTL\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BaoCao.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\AxShockwaveFlashObjects.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Shared.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\ShockwaveFlashObjects.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeNhanvien.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeDoanhThu.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeSLĐT.resources
+C:\Users\Admin\source\repos\BTLLLLLLLLLLLLLLLLLLLLLLLLLL\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Thongke.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Thongke.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeNhanvien.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeSLĐT.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.DoiMatKhau.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.DoiMatKhau.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Thongke.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeNhanvien.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeSLĐT.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuenMK.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuenMK.resources
+C:\Users\Admin\source\repos\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongkeHoaDon.resources
+D:\FITHOU\Hướng sự kiện\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongkeHoaDon.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.DoiMatKhau.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuenMK.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Thongke.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongkeHoaDon.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeNhanvien.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeSLĐT.resources
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+C:\Users\Admin\source\repos\btllllll\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe.config
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\QuanLyCuaHangBanDienThoai.pdb
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\bin\Debug\stdole.dll
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.AssemblyReference.cache
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.BanHang.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.DoiMatKhau.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuenMK.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Thongke.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Login.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.Properties.Resources.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLy.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.QuanLyCuaHangDienThoai.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongkeHoaDon.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeNhanvien.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.ThongKeSLĐT.resources
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.GenerateResource.cache
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CoreCompileInputs.cache
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.csproj.CopyComplete
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.exe
+D:\FITHOU\Hướng sự kiện\Code\BTL_HSK_FITHOU\QuanLyCuaHangBanDienThoai\QuanLyCuaHangBanDienThoai\obj\Debug\QuanLyCuaHangBanDienThoai.pdb
